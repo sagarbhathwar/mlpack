@@ -451,6 +451,7 @@ if (UNIX)
         DEPENDS
           mlpack_adaboost
           mlpack_approx_kfn
+          mlpack_affinity_propagation
           mlpack_kfn
           mlpack_knn
           mlpack_krann

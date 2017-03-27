@@ -5,6 +5,7 @@ add_executable(mlpack_test
   adam_test.cpp
   ada_delta_test.cpp
   ada_grad_test.cpp
+  affinity_propagation_test.cpp
   akfn_test.cpp
   aknn_test.cpp
   ann_layer_test.cpp

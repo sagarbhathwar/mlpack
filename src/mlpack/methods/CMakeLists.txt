@@ -18,6 +18,7 @@ endmacro ()
 set(DIRS
   preprocess
   adaboost
+  affinity_propagation
   approx_kfn
   amf
   ann
